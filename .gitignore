@@ -1,0 +1,10 @@
+*.pyc
+.idea
+env/
+configuration/dev_local.yml
+configuration/dev_docker.yml
+configuration/prod_local.yml
+data/host_file_system/audit_report/*.xlsx
+*.DS_Store
+configuration/debug_kkr.yml
+configuration/prod_kkr.yml
